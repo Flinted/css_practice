@@ -1,6 +1,7 @@
 body {
   background: #d0ece7;
   background-image: url("escheresque.png");
+  background-attachment: fixed;
   font-family: "Lato", sans-serif;
   position: static; 
 }
@@ -118,6 +119,7 @@ background-image: url("diagmonds-light.png");
 .cocktail li {
   list-style: none;
   margin-bottom: 2px;
+  text-align: center;
 
 }
 
